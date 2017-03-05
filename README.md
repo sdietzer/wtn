@@ -1,3 +1,10 @@
+## LINKS
+GitHub Pages: https://sdietzer.github.io/wtn/
+AWS Development Site: http://wtn-dev.azurewebsites.net/
+AWS Production Website: http://wtn.azurewebsites.net/
+WTN Forum: http://dietzer.com/wtn/forum/index.php
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sdietzer/wtn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
