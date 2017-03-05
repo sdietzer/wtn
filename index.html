@@ -19,41 +19,12 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoic2RpZXR6ZXIiLCJhIjoiY2l6d3psZXNnMDI0ZDMybW00a
 var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/mapbox/streets-v9',
-    center: [-74.50, 40], // starting position
-    zoom: 9 // starting zoom
+    center: [-96, 37.8], // starting position
+    zoom: 3 // starting zoom
 });
-
-// Add zoom and rotation controls to the map.
-map.addControl(new mapboxgl.NavigationControl());
+// Add geolocate control to the map.
+map.addControl(new mapboxgl.GeolocateControl());
 </script>
 
 </body>
-</html>
-          mapTypeId: 'terrain'
-        });
-        // Create a <script> tag and set the USGS URL as the source.
-        var script = document.createElement('script');
-        // This example uses a local copy of the GeoJSON stored at
-        // http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojsonp
-        script.src = 'https://developers.google.com/maps/documentation/javascript/examples/json/earthquake_GeoJSONP.js';
-        document.getElementsByTagName('head')[0].appendChild(script);
-      }
-      // Loop through the results array and place a marker for each
-      // set of coordinates.
-      window.eqfeed_callback = function(results) {
-        for (var i = 0; i < results.features.length; i++) {
-          var coords = results.features[i].geometry.coordinates;
-          var latLng = new google.maps.LatLng(coords[1],coords[0]);
-          var marker = new google.maps.Marker({
-            position: latLng,
-            map: map
-          });
-        }
-      }
-    </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDagZh_utipK57Hd5J7ElbXONH7IsEH6mo
-&callback=initMap">
-    </script>
-  </body>
 </html>
