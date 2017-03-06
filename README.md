@@ -8,9 +8,9 @@ WE CAN'T DEPEND ON GOVERNEMENT, CORPORATIONS, OR FARMS TO KEEP OUR SOIL AND WATE
 ## LINKS
 1. WebApp(Prod): http://watertest.network
 2. WebApp(Dev): http://dev.watertest.network
-3. WebSite: http://watertestnetwork.com
-4. Twitter: https://twitter.com/watertestnet
-5. Facebook: https://www.facebook.com/watertestnetwork/ 
+3. WebSite: http://www.earthtesters.org
+4. Twitter: https://twitter.com/earthtesters
+5. Facebook: https://www.facebook.com/earthtesters 
 
 
 
