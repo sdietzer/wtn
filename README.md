@@ -10,7 +10,7 @@ Due to the recent discoveries of high levels of iron in the water in Flint Michi
 3. AWS Development Site: http://wtn-dev.azurewebsites.net/
 4. AWS Production Website: http://wtn.azurewebsites.net/
 5. Forum: http://dietzer.com/wtn/forum/index.php
-6. Twitter: @watertestnet
+6. Twitter: https://twitter.com/watertestnet
 7. Facebook: 
 
 
