@@ -1,5 +1,5 @@
 # Welcome to the Water Test Network(WTN)
-Due to the recent discoveries of high levels of iron in the water in Flint Michigan, we are forming a group of citizens who are concerned about clean water who want to take on the responsibility of testing our all waters sources like city water, wells, streams, rivers, and lakes and posting the results to our website.  The water test results will be displayed on our website for everyone to see.
+Due to the recent discoveries of high levels of iron in the water in Flint Michigan, we are forming a group of citizens who are concerned about clean water.  We need volunteers to test the water of all waters sources like city water, wells, streams, rivers, and lakes and then post the results to our website.  The water test results will be analyzed and displayed on our website.
 
 ### WE CAN NOT DEPEND ON GOVERNMENTS, CORPORATIONS, OR FARMS FOR KEEPING OUR WATERS CLEAN!
 
