@@ -5,8 +5,8 @@ Due to the recent relaxed environmental government regulations and the devastati
 ### IT's UP TO US! JOIN TODAY!
 
 ## LINKS
-1. WebSite: http://www.watertestnetwork.com
-2. WebApp: http://watertest.network
+1. WebSite: http://watertest.network
+2. Blog: http://www.watertestnetwork.com
 3. GitHub Pages: https://sdietzer.github.io/wtn/
 4. AWS Development Site: http://wtn-dev.azurewebsites.net/
 5. AWS Production Website: http://wtn.azurewebsites.net/
