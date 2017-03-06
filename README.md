@@ -1,7 +1,7 @@
 # Welcome to the Water Test Network(WTN)
 Due to the recent discoveries of high levels of iron in the water in Flint Michigan, we are forming a group of citizens who are concerned about clean water.  We need volunteers to test the water of all waters sources like city water, wells, streams, rivers, and lakes and then post the results to our website.  The water test results will be analyzed and displayed on our website.
 
-### WE CAN NOT DEPEND ON GOVERNMENTS, CORPORATIONS, OR FARMS FOR KEEPING OUR WATERS CLEAN!
+### WE CAN'T DEPEND ON GOV's, CORP's, OR FARM's to keep our OUR WATERS CLEAN!  IT's UP TO US!
 
 ## LINKS
 1. GitHub Pages: https://sdietzer.github.io/wtn/
@@ -9,5 +9,6 @@ Due to the recent discoveries of high levels of iron in the water in Flint Michi
 3. AWS Production Website: http://wtn.azurewebsites.net/
 4. WTN Forum: http://dietzer.com/wtn/forum/index.php
 5. Twitter: @watertestnet
+6. Website: http://www.watertest.network
 
 
