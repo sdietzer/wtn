@@ -5,11 +5,13 @@ Due to the recent discoveries of high levels of iron in the water in Flint Michi
 ### IT's UP TO US!
 
 ## LINKS
-1. GitHub Pages: https://sdietzer.github.io/wtn/
-2. AWS Development Site: http://wtn-dev.azurewebsites.net/
-3. AWS Production Website: http://wtn.azurewebsites.net/
-4. WTN Forum: http://dietzer.com/wtn/forum/index.php
-5. Twitter: @watertestnet
-6. Website: http://watertest.network
+1. Website: http://watertest.network
+2. GitHub Pages: https://sdietzer.github.io/wtn/
+3. AWS Development Site: http://wtn-dev.azurewebsites.net/
+4. AWS Production Website: http://wtn.azurewebsites.net/
+5. Forum: http://dietzer.com/wtn/forum/index.php
+6. Twitter: @watertestnet
+7. Facebook: 
+
 
 
