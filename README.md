@@ -4,9 +4,10 @@ Due to the recent discoveries of high levels of iron in the water in Flint Michi
 ### WE CANT DEPEND ON GOVERNMENTS, CORPORATIONS, OR FARMS FOR KEEPING OUR WATERS CLEAN
 
 ## LINKS
-GitHub Pages: https://sdietzer.github.io/wtn/
-AWS Development Site: http://wtn-dev.azurewebsites.net/
-AWS Production Website: http://wtn.azurewebsites.net/
-WTN Forum: http://dietzer.com/wtn/forum/index.php
+1. GitHub Pages: https://sdietzer.github.io/wtn/
+2. AWS Development Site: http://wtn-dev.azurewebsites.net/
+3. AWS Production Website: http://wtn.azurewebsites.net/
+4. WTN Forum: http://dietzer.com/wtn/forum/index.php
+5. Twitter: @watertestnet
 
 
