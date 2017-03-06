@@ -5,13 +5,14 @@ Due to the recent relaxed environmental government regulations and the devastati
 ### IT's UP TO US! JOIN TODAY!
 
 ## LINKS
-1. Website: http://watertest.network
-2. GitHub Pages: https://sdietzer.github.io/wtn/
-3. AWS Development Site: http://wtn-dev.azurewebsites.net/
-4. AWS Production Website: http://wtn.azurewebsites.net/
-5. Forum: http://dietzer.com/wtn/forum/index.php
-6. Twitter: https://twitter.com/watertestnet
-7. Facebook: https://www.facebook.com/watertestnetwork/ 
+1. WebSite: http://www.watertestnetwork.com
+2. WebApp: http://watertest.network
+3. GitHub Pages: https://sdietzer.github.io/wtn/
+4. AWS Development Site: http://wtn-dev.azurewebsites.net/
+5. AWS Production Website: http://wtn.azurewebsites.net/
+6. Forum: http://dietzer.com/wtn/forum/index.php
+7. Twitter: https://twitter.com/watertestnet
+8. Facebook: https://www.facebook.com/watertestnetwork/ 
 
 
 
