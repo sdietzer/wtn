@@ -7,12 +7,9 @@ Due to the recent relaxed environmental government regulations and the devastati
 ## LINKS
 1. WebSite: http://watertest.network
 2. Blog: http://watertest.network/blog
-3. GitHub Pages: https://sdietzer.github.io/wtn/
-4. AWS Development Site: http://wtn-dev.azurewebsites.net/
-5. AWS Production Website: http://wtn.azurewebsites.net/
-6. Forum: http://dietzer.com/wtn/forum/index.php
-7. Twitter: https://twitter.com/watertestnet
-8. Facebook: https://www.facebook.com/watertestnetwork/ 
+3. Forum: http://watertest.network/forum
+4. Twitter: https://twitter.com/watertestnet
+5. Facebook: https://www.facebook.com/watertestnetwork/ 
 
 
 
