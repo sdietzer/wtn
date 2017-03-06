@@ -1,5 +1,5 @@
 # Welcome Earth Testers!
-Due to weak government environmental regulations and oversight and the recent devastating discoveries of high levels of iron in the water in places like East Chicago and Flint Michigan, we are forming Earth Testers.  Citizens who are concerned about keeping our land and water free of toxins are encouraged to join our group, we need volunteers to help test the Earth and then post the results to our website.  The test results will be analyzed and displayed on our website.
+Due to weak government environmental regulations and oversight and the recent devastating discoveries of high levels of iron in the water in places like East Chicago and Flint Michigan, we are forming Earth Testers.  People who are concerned about keeping our land and water free of toxins are encouraged to join our group, we need volunteers to help test the Earth and then post the results to our website.  The test results will be analyzed and displayed on our website.
 
 WE CAN'T DEPEND ON GOVERNEMENT, CORPORATIONS, OR FARMS TO KEEP OUR SOIL AND WATER FREE OF TOXINS!  IT'S UP TO US! 
 
